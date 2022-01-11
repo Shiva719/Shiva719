@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva719&label=Profile%20views&color=0e75b6&style=flat" alt="shiva719" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva719" alt="shiva719" /></a> </p>
-
 - 🔭 I’m currently working on **UI/UX development**
 
 - 🌱 I’m currently learning **kiwi.**
