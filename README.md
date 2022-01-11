@@ -56,6 +56,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a bootable pendrive using Kali linux](https://www.youtube.com/watch?v=h3LgujHcF5E)
+- [Adobe Premiere Pro - Basic Editing for Beginners](https://www.youtube.com/watch?v=HXFf6LJVxW0)
+- [How to uninstall inbulit app in Xiaomi mobiles.](https://www.youtube.com/watch?v=aNWKf7ecg9g)
+- [New Intro of Techie Lite](https://www.youtube.com/watch?v=7BjcMCngDPQ)
+- [How to install and setup JAVA JDK on your PC](https://www.youtube.com/watch?v=Ve8VcemScwo)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more videos...](https://youtube.com/UC6dCGz-ADJhbz4b7UEwkiEQ)
